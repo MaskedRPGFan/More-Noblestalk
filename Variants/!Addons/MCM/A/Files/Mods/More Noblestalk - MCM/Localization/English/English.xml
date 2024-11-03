@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="AddNoblestalkName" version="1">Add a normal Noblestalk.</content>
+    <content contentuid="AddQuestNoblestalkName" version="1">Add a quest Noblestalk.</content>
+    <content contentuid="AddNoblestalkTooltip" version="1">Add the specified number of regular Noblestalks.</content>
+    <content contentuid="AddQuestNoblestalkTooltip" version="1">Add one quest Noblestalk. You cannot have more than one quest Noblestalk at the same time.</content>
+    <content contentuid="GeneralName" version="1">General</content>
+    <content contentuid="NormalNoblestalkName" version="1">Normal Noblestalk</content>
+    <content contentuid="NormalNoblestalkTooltip" version="1">Normal, non-quest Noblestalks.</content>
+</contentList>

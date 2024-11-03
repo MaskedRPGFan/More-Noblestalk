@@ -1,0 +1,31 @@
+{
+    "SchemaVersion": 1,
+    "ModName": "More Noblestalk",
+    "Tabs": [
+        {
+            "TabId": "general",
+            "TabName": "General",
+            "Settings": [
+                {
+                    "Id": "normal_noblestalk",
+                    "Name": "Normal Noblestalk",
+                    "Type": "slider_int",
+                    "Default": 100,
+                    "Tooltip": "Normal, non-quest Noblestalks.",
+                    "Options": {
+                        "Min": 1,
+                        "Max": 100
+                    },
+                    "Handles": {
+                        "NameHandle": "NormalNoblestalkName",
+                        "TooltipHandle": "NormalNoblestalkTooltip"
+                    }
+                }
+            ],
+            "Handles": {
+                "NameHandle": "GeneralName"
+            }
+        }
+    ],
+    "Optional": "true"
+}

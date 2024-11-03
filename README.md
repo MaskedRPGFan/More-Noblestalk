@@ -6,7 +6,7 @@
 
 ## Introduction
 
-More [Noblestalks](https://bg3.wiki/wiki/Noblestalk) in an immersive way(WIP‼️) or by buying them from merchants or from tutorial chest.
+More [Noblestalks](https://bg3.wiki/wiki/Noblestalk) in an immersive way(WIP‼️). Add-ons let you buy them from merchants, get from tutorial chest or add to your inventory using [MCM](https://www.nexusmods.com/baldursgate3/mods/9162). Quest version of Noblestalk can be added only via MCM.
 
 ## TO-DO
 
@@ -15,7 +15,7 @@ Planned features:
 
 ## Optional Files
 
-Add-ons from optional files section can be used together with main file to let you buy Noblestalk from merchants (1, 2, 3, 4, 5, 10) if you want to have more Noblestalk.
+All add-ons from optional files section are standalone and can be used together with main file. **Merchants** and **Tutorial Chest** add-ons have optional [MCM](https://www.nexusmods.com/baldursgate3/mods/9162) support, so if you have [MCM](https://www.nexusmods.com/baldursgate3/mods/9162) installed, you can use it to add normal or quest [Noblestalk](https://bg3.wiki/wiki/Noblestalk) to your inventory using MCM. MCM add-on is included in Tutorial Chest add-on, which is included in Merchants add-on, so pick one. 
 
 Merchants:
 * 💰 Arron in the tiefling camp.
@@ -25,29 +25,32 @@ Merchants:
 * 💰 Danthelon in Wyrm's Crossing near the bridge to Wyrm's Rock.
 * 💰 Glynda Oltower in Wyrm's Crossing near the bridge to Wyrm's Rock.
 
+<p align="center"><img src="https://i.postimg.cc/HkPvsd5s/MCM.png"/></p>
 
 Current list of add-ons:
 
+* ✳️ MCM — A:
+  * ➡️ Add normal or quest Noblestalk using [MCM](https://www.nexusmods.com/baldursgate3/mods/9162).
 * ✳️ Merchants — A:
-  * ➡️ 1 Noblestalk in merchants' shops and tutorial chest.
+  * ➡️ 1 Noblestalk in merchants' shops and tutorial chest. Optional MCM support.
 * ✳️ Merchants — A1:
-  * ➡️ 2 Noblestalks in merchants' shops and tutorial chest.
+  * ➡️ 2 Noblestalks in merchants' shops and tutorial chest. Optional MCM support.
 * ✳️ Merchants — A2:
-  * ➡️ 5 Noblestalks in merchants' shops and tutorial chest.
+  * ➡️ 5 Noblestalks in merchants' shops and tutorial chest. Optional MCM support.
 * ✳️ Merchants — A3:
-  * ➡️ 10 Noblestalks in merchants' shops and tutorial chest.
+  * ➡️ 10 Noblestalks in merchants' shops and tutorial chest. Optional MCM support.
 * ✳️ Merchants — A4:
-  * ➡️ 100 Noblestalks in merchants' shops and tutorial chest.
+  * ➡️ 100 Noblestalks in merchants' shops and tutorial chest. Optional MCM support.
 * ✳️ Tutorial Chest — B:
-  * ➡️ 1 Noblestalk in tutorial chest.
+  * ➡️ 1 Noblestalk in tutorial chest. Optional MCM support.
 * ✳️ Tutorial Chest — B1:
-  * ➡️ 2 Noblestalks in tutorial chest.
+  * ➡️ 2 Noblestalks in tutorial chest. Optional MCM support.
 * ✳️ Tutorial Chest — B2:
-  * ➡️ 5 Noblestalks in tutorial chest.
+  * ➡️ 5 Noblestalks in tutorial chest. Optional MCM support.
 * ✳️ Tutorial Chest — B3:
-  * ➡️ 10 Noblestalks in tutorial chest.
+  * ➡️ 10 Noblestalks in tutorial chest. Optional MCM support.
 * ✳️ Tutorial Chest — B4:
-  * ➡️ 100 Noblestalks in tutorial chest.
+  * ➡️ 100 Noblestalks in tutorial chest. Optional MCM support.
 
 ## Installation
 
@@ -77,6 +80,14 @@ Its larger quantities will be needed to strengthen and create equipment in my mo
 ### Is a long rest required to add new items to vendors if the addon was installed mid playthrough?
 
 Yes.
+
+### Why my MCM do not have buttons, only slider?
+
+You need to load/start game to have all options in MCM.
+
+### Why I can not add more than one quest Noblestalk?
+
+Quests version on Noblestalk is unique and can not be multiplied. Just add it again, after you will use it.
 
 ## Permissions
 
